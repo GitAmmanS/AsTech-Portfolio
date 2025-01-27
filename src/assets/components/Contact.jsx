@@ -51,7 +51,7 @@ function Contact() {
           <div className="flex items-center space-x-4">
             <span className="text-2xl">📱</span>
             <p className="text-lg">
-              <a href="tel:+1234567890" className="text-teal-500 hover:underline">
+              <a href="tel:+923259055292" className="text-teal-500 hover:underline">
                 +92 (325) 9055292
               </a>
             </p>
