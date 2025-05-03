@@ -13,7 +13,7 @@ const DownloadCv = () => {
                         download="a.pdf"
                         className="inline-block px-6 py-3 bg-slate-600 text-white font-semibold rounded-lg shadow-md hover:bg-slate-900 transition duration-300"
                     >
-                        Download Resume
+                        Download Resume Here
                     </a>
                 </div>
             </div>
