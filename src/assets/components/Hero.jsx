@@ -10,7 +10,7 @@ function Hero() {
           <img
             src={profilePic}
             alt="Amman Sajjad"
-            className="w-40 h-40 rounded-full border-4 border-teal-500 object-contain"
+            className="w-32 rounded-full border-4 border-teal-500 object-cover hover:border-teal-900 hover:transition-all hover:duration-200 cursor-pointer hover:scale-x-105"
           />
         </div>
 

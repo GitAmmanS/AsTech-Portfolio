@@ -3,24 +3,29 @@ import React from "react";
 function Projects() {
   const projects = [
     {
+      name: "E-Commerce Website",
+      description: "Full-Stack E-commerce Application (MERN Stack) featuring user authentication, product management, cart system, and secure order processing with real-time updates."
+      , link: "https://as-fit.vercel.app/", // Add project link here
+    },
+    {
       name: "UIIT Labs Expert System",
       description: "Real-time Lab Management System (MERN Stack) that automates equipment tracking, complaint management, and inventory handling.",
-      link: "#", // Add project link here
+      link: "https://github.com/GitAmmanS/FYP", // Add project link here
     },
     {
       name: "Netflix Clone",
       description: "A React-based streaming app with dynamic data fetching, user authentication, and routing. Recreated Netflix's UI and features.",
-      link: "#", // Add project link here
+      link: "https://github.com/GitAmmanS/NetflixClone", // Add project link here
     },
     {
       name: "Book App",
       description: "Full-stack MERN application for managing books with CRUD operations. Features user authentication and integrates with MongoDB.",
-      link: "#", // Add project link here
+      link: "https://github.com/GitAmmanS/Book-app", // Add project link here
     },
     {
       name: "Food App",
       description: "Full-stack food ordering app that supports menu browsing, user authentication, and real-time order tracking, built with MERN stack.",
-      link: "#", // Add project link here
+      link: "https://github.com/GitAmmanS/Food-App", // Add project link here
     },
     {
       name: "Shopping App Backend",
